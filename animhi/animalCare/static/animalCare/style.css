@@ -1,0 +1,35 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+
+}
+
+.logo{
+    font-family: 'Amatic SC', cursive;
+}
+
+li,a{
+    font-family: 'Architects Daughter', cursive;
+    text-decoration: none;
+    font-weight: 500;
+    font-size: 20px;
+    color: azure;
+}
+
+button{
+        font-family: 'Architects Daughter', cursive;
+        border: none;
+        font-weight: 500;
+        font-size: 20px;
+        background-color:rgb(148, 209, 211);
+}
+
+header{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 15px 15px;
+
+    background: #808B96;
+}
